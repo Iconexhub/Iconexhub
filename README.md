@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Iconexhub
 
-<!--
-**Iconexhub/Iconexhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring AI & Cybersecurity Engineer**  
+💡 Passionate about building **intelligent systems** and **secure solutions**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔭 What I'm Working On
+- Exploring Deep Learning & Hybrid Models for Intrusion Detection Systems  
+- Learning full-stack development to deploy AI applications  
+
+---
+
+# 🛠️ Skills & Tools
+- **Languages**: Python, Java, JavaScript  
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn  
+- **Cybersecurity**: Intrusion Detection, Network Security, Ethical Hacking Basics  
+- **Web**: HTML, CSS, React, Node.js (learning)  
+- **Tools**: Git, GitHub, VS Code  
+
+---
+
+# 📌 Featured Projects (Coming Soon)
+Stay tuned for projects in:
+- AI Security 🔐  
+- Web Applications 🌐  
+- Open Source Contributions 🌍  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@Iconexhub](https://github.com/Iconexhub)  
+- LinkedIn: *(add your link when ready)*  
+- Email: iconex2005@gmail.com 
+
+---
+
+⭐️ *Thanks for visiting my profile! I'm always open to collaboration and learning opportunities.*
+
