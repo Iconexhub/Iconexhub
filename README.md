@@ -1,91 +1,144 @@
-👋 Hi, I'm Iconexhub
+# Hi there! 👋 I'm Ehimika Osagbai Excel
 
-🚀 **Aspiring Backend, AI & Cybersecurity Engineer**  
-💡 Passionate about building **secure, reliable backend systems** and **intelligent applications**
+### Backend Developer | AI & Machine Learning Enthusiast | Technical Problem Solver
 
----
+I'm a Computer Science graduate passionate about building reliable backend systems, intelligent applications, and practical technology solutions. I enjoy solving real-world problems through software development, artificial intelligence, and automation.
 
-## 🔭 What I'm Currently Working On
-- Building foundational backend engineering skills (APIs, databases, authentication)
-- Learning how scalable backend systems are designed and deployed
-- Exploring AI and cybersecurity applications, especially intrusion detection systems
-- Gradually moving toward cloud-based deployment and backend infrastructure
+I'm currently seeking **remote opportunities** where I can contribute, learn, and grow while building impactful products.
 
 ---
 
-## 🧠 Backend Engineering Focus
-I’m actively developing my backend engineering skills with an emphasis on:
+## 🚀 About Me
 
-- RESTful API design and request/response workflows  
-- Backend application logic and data flow  
-- Authentication and basic authorization concepts  
-- Working with databases (CRUD operations, schema design fundamentals)  
-- Understanding asynchronous processing and background tasks  
-- Learning how scalable and production-ready systems are structured  
-
-I’m particularly interested in how backend systems evolve from small projects into reliable, scalable platforms.
+- 💻 Backend developer with experience building REST APIs and web applications.
+- 🤖 AI and Machine Learning enthusiast with research experience in deep learning and cybersecurity.
+- 🧠 Co-author of multiple published AI research papers.
+- 🏆 Hackathon participant with experience building real-world solutions under tight deadlines.
+- 👨‍🏫 Robotics and Coding Instructor passionate about making technology accessible.
+- 🌍 Open to **remote opportunities worldwide**.
 
 ---
 
-## 🛠️ Skills & Tools
-**Languages**
+## 💼 Technical Skills
+
+### Languages
 - Python
 - Java
 - JavaScript
+- HTML
+- CSS
+- SQL
 
-**Backend / Web**
-- Node.js (learning)
-- Express.js (learning)
+### Backend Development
+- Flask
 - REST APIs
-- Basic backend architecture concepts
+- JSON
+- Authentication
+- API Integration
 
-**AI / Machine Learning**
+### Artificial Intelligence & Data
 - TensorFlow
 - PyTorch
 - Scikit-learn
-- Deep Learning fundamentals
+- Pandas
+- NumPy
+- Deep Learning
+- Data Analysis
 
-**Cybersecurity**
+### Cybersecurity
 - Intrusion Detection Systems
-- Network Security fundamentals
-- Ethical Hacking basics
+- Network Security Fundamentals
+- Security Research
 
-**Tools & Platforms**
+### Tools
 - Git & GitHub
 - VS Code
-- Linux basics (learning)
-- Cloud concepts (learning)
+- Google Colab
+- Microsoft Office
+- Linux (Basic)
 
 ---
 
-## 📌 Projects
-### Backend & Web (In Progress)
-- Service-based application backend (API design, workflows, data handling)
-- Learning-focused backend projects to practice real-world scenarios
+# 🌟 Featured Projects
 
-### AI & Security
-- Hybrid deep learning models for intrusion detection systems
-- Research-driven security projects (academic & practical)
+## 🎓 EduFlex
+A hackathon project focused on improving educational accessibility through technology.
 
-> 🚧 More structured backend and cloud-based projects coming soon as I continue learning.
-
----
-
-## 🎯 Goals
-- Grow into a strong backend engineer with cloud and scalability knowledge
-- Build production-ready systems with reliability and security in mind
-- Combine backend engineering with AI and cybersecurity expertise
-- Contribute to real-world products while learning from experienced engineers
+**Tech Stack**
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [@Iconexhub](https://github.com/Iconexhub)
-- LinkedIn: linkedin.com/in/excel-ehimika-5aa58030a
-- Email: iconex2005@gmail.com
+## 🛡️ Hybrid Intrusion Detection System
+
+Designed and implemented a hybrid deep learning framework combining Residual CNN, LSTM, GRU and Transformer Encoder for IoT intrusion detection.
+
+Highlights:
+
+- Feature Selection using Bat Swarm Optimization (BSO)
+- Feature Ranking using Chi-Square Test
+- CIC-IoT 2023 Dataset
+- Bot-IoT Dataset
 
 ---
 
-⭐️ *I’m always open to learning opportunities, mentorship, and collaboration. Thanks for visiting my profile!*
+## 🌐 Web Development Projects
+
+- School Website
+- Backend API Projects
+- Payment API Integration
+- Other software development projects
+
+---
+
+# 📚 Publications
+
+I have co-authored peer-reviewed research papers in Artificial Intelligence and Machine Learning, including:
+
+- Hybrid Deep Learning for IoT Intrusion Detection
+- Alzheimer's Disease Prediction using Deep Learning
+- Skin Cancer Prediction using Multimodal Deep Learning
+
+---
+
+# 🎯 Current Interests
+
+I'm actively interested in:
+
+- Backend Engineering
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Cloud Technologies
+- Software Architecture
+- Scalable Systems
+
+---
+
+# 📈 Currently Working On
+
+- Building production-ready backend applications
+- Improving cloud deployment skills
+- Expanding my software engineering portfolio
+- Contributing to open-source projects
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** iconex2005@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/excel-ehimika-5aa58030a/
+
+
+---
+
+> *"Great software is built by people who never stop learning, solving problems, and improving."*
+
+⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
 
 
